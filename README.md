@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) .Net Core Eğitimi kapsamında oluşturduğum ilk repo. İçerisinde bir adet README ve bir adet index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) .Net Core Eğitimi kapsamında oluşturduğum ilk repo. İçerisinde bir adet README, bir adet index.html ve bir adet kodluyoruzilkrepo.png barındırıyor.
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
